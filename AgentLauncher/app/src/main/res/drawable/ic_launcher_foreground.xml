@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:scaleX="0.4"
+        android:scaleY="0.4"
+        android:translateX="32.4"
+        android:translateY="32.4">
+        <!-- Robot head -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,20 C74,20 90,36 90,56 C90,76 74,92 54,92 C34,92 18,76 18,56 C18,36 34,20 54,20 Z"/>
+        <!-- Eyes -->
+        <path
+            android:fillColor="#6750A4"
+            android:pathData="M38,48 C38,44 41,41 45,41 C49,41 52,44 52,48 C52,52 49,55 45,55 C41,55 38,52 38,48 Z"/>
+        <path
+            android:fillColor="#6750A4"
+            android:pathData="M56,48 C56,44 59,41 63,41 C67,41 70,44 70,48 C70,52 67,55 63,55 C59,55 56,52 56,48 Z"/>
+        <!-- Smile -->
+        <path
+            android:fillColor="#6750A4"
+            android:pathData="M36,66 Q54,82 72,66"
+            android:strokeWidth="4"
+            android:strokeColor="#6750A4"/>
+        <!-- Antenna -->
+        <path
+            android:fillColor="#6750A4"
+            android:pathData="M51,20 L51,8 C51,6 53,4 55,4 C57,4 59,6 59,8 L59,20"/>
+        <circle
+            android:fillColor="#6750A4"
+            android:centerX="55"
+            android:centerY="4"
+            android:radius="4"/>
+    </group>
+</vector>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Agent OS uses this service to automate tasks by interacting with apps on your behalf. This includes reading screen content and performing actions like tapping and typing.</string>
+</resources>
